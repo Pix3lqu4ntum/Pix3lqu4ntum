@@ -1,1 +1,35 @@
-[![Pix3lQu4ntum's GitHub stats](https://github-readme-stats.vercel.app/api?username=pix3lqu4ntum)](https://github.com/pix3lqu4ntum/github-readme-stats)
+# 👋 Hi, I'm Louis Velard (Pix3lqu4ntum)
+
+Welcome to my GitHub profile! I'm a passionate developer focusing on backend technologies, particularly Go (Golang), and I'm currently exploring web development frameworks and system design.
+
+---
+
+## 🧠 What I Do
+
+* **Backend Development**: Building scalable and efficient server-side applications.
+* **Web Development**: Crafting dynamic web applications with modern frameworks.
+* **System Design**: Architecting robust and maintainable systems.
+
+---
+
+## 🔧 Technologies & Tools
+
+* **Languages**: Go (Golang), JavaScript, TypeScript
+* **Frameworks**: React, Express.js
+* **Databases**: PostgreSQL, MongoDB
+* **Tools**: Docker, Kubernetes, Git, CI/CD pipelines
+
+---
+
+## 📈 GitHub Stats
+
+![Louis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pix3lqu4ntum\&show_icons=true\&hide_title=true\&count_private=true\&hide=prs\&theme=radical)
+
+---
+
+## 📣 Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/louis-velard/)
+* [Twitter](https://twitter.com/Pix3lqu4ntum)
+
+Feel free to explore my repositories, contribute to open-source projects, or reach out for collaborations!
