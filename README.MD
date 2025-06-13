@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer focusing on backend tec
 
 ## 🔧 Technologies & Tools
 
-* **Languages**: Go (Golang), JavaScript, TypeScript
+* **Languages**:   <img align="right" alt="Coding" width="400" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"> Go (Golang), JavaScript, TypeScript
 * **Frameworks**: React, Express.js, NextJS, Vite, Gin
 * **Databases**: PostgreSQL, Mysql, Sqlite
 * **Tools**: Docker, Git, CI/CD pipelines
