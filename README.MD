@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate developer focusing on backend tec
 ## 🔧 Technologies & Tools
 
 * **Languages**: Go (Golang), JavaScript, TypeScript
-* **Frameworks**: React, Express.js
-* **Databases**: PostgreSQL, MongoDB
-* **Tools**: Docker, Kubernetes, Git, CI/CD pipelines
+* **Frameworks**: React, Express.js, NextJS, Vite, Gin
+* **Databases**: PostgreSQL, Mysql, Sqlite
+* **Tools**: Docker, Git, CI/CD pipelines
 
 ---
 
@@ -31,5 +31,3 @@ Welcome to my GitHub profile! I'm a passionate developer focusing on backend tec
 
 * [LinkedIn](https://www.linkedin.com/in/louis-velard/)
 * [Twitter](https://twitter.com/Pix3lqu4ntum)
-
-Feel free to explore my repositories, contribute to open-source projects, or reach out for collaborations!
