@@ -9,8 +9,13 @@
 ---
 
 ## 🔧 Technologies & Tools
+* **Languages**: 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Golang](https://img.shields.io/badge/Golang?logo=go)
 
-* **Languages**:   <img align="right" alt="Coding" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"> Go (Golang), JavaScript, TypeScript
+  <img align="right" alt="Coding" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"> Go (Golang), JavaScript, TypeScript
 * **Frameworks**: React, Express.js, NextJS, Vite, Gin
 * **Databases**: PostgreSQL, Mysql, Sqlite
 * **Tools**: Docker, Git, CI/CD pipelines
