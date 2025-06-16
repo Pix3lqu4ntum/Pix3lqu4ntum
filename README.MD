@@ -1,7 +1,5 @@
-![Header](./github-header-image.png)
-
 # 👋🏻 Hi, i'm Louis Velard
-FullStack developper
+I'm a FullStack developper,
 
 ## 🧠 What I Do
 
