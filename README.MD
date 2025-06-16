@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Louis Velard (Pix3lqu4ntum)
+![Header](./your-header-image-name.png)
+
+---
 
 ## 🧠 What I Do
 
