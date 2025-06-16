@@ -21,5 +21,5 @@ I'm a FullStack Developer with a focus on building reliable, maintainable, and h
   
 ## 📣 Let's Connect
 
-* [LinkedIn](https://www.linkedin.com/in/louis-velard/)
+* [LinkedIn](https://www.linkedin.com/in/louis-velard-098429293)
 * [Discord](https://discordapp.com/users/1011645743007805532)
