@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+# 👋🏻 Hi, i'm Louis Velard 
+
 ## 🧠 What I Do
 
 * **Backend Development**: Building scalable and efficient server-side applications.
