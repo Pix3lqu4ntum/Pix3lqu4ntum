@@ -1,11 +1,5 @@
 # 👋🏻 Hi, i'm Louis Velard
-i'm FullStack developper, 
-
-## 🧠 What I Do
-
-* **Backend Development**: Building scalable and efficient server-side applications.
-* **Web Development**: Crafting dynamic web applications with modern frameworks.
-* **System Design**: Architecting robust and maintainable systems.
+I'm a FullStack Developer with a focus on building reliable, maintainable, and high-performance applications across the stack.
 
 ---
 
