@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Louis Velard (Pix3lqu4ntum)
 
----
-
 ## 🧠 What I Do
 
 * **Backend Development**: Building scalable and efficient server-side applications.
