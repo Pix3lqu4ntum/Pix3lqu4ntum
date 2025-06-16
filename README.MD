@@ -1,5 +1,5 @@
 # 👋🏻 Hi, i'm Louis Velard
-I'm a FullStack developper,
+i'm FullStack developper, 
 
 ## 🧠 What I Do
 
@@ -27,19 +27,9 @@ I'm a FullStack developper,
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
-* **Frameworks**: React, Express.js, NextJS, Vite, Gin
-* **Databases**: PostgreSQL, Mysql, Sqlite
-* **Tools**: Docker, Git, CI/CD pipelines
-
----
-
-## 📈 GitHub Stats
-
-![Louis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pix3lqu4ntum\&show_icons=true\&hide_title=true\&count_private=true\&hide=prs\&theme=radical)
-
 ---
 
 ## 📣 Let's Connect
 
 * [LinkedIn](https://www.linkedin.com/in/louis-velard/)
-* [Twitter](https://twitter.com/Pix3lqu4ntum)
+* [Discord](https://discordapp.com/users/1011645743007805532)
