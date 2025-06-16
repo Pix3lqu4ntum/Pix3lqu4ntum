@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Louis Velard (Pix3lqu4ntum)
 
-Welcome to my GitHub profile! I'm a passionate developer focusing on backend technologies, particularly Go (Golang), and I'm currently exploring web development frameworks and system design.
-
 ---
 
 ## 🧠 What I Do
