@@ -1,7 +1,5 @@
 ![Header](./github-header-image.png)
 
----
-
 ## 🧠 What I Do
 
 * **Backend Development**: Building scalable and efficient server-side applications.
